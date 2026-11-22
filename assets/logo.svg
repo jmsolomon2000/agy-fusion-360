@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Transparent background with ~10% padding (coords within 14..114) -->
+  <!-- Isometric 3D CAD cube with high-contrast faces and wireframe accents -->
+  <polygon points="64,16 110,41 64,66 18,41" fill="#FF9E2C" stroke="#1E1E24" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="18,41 64,66 64,112 18,87" fill="#E85D04" stroke="#1E1E24" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="110,41 64,66 64,112 110,87" fill="#B53D00" stroke="#1E1E24" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Inner parametric sketch grid / cutout accent on top face -->
+  <polygon points="64,28 88,41 64,54 40,41" fill="none" stroke="#FFF4E6" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Highlighted CAD vertices -->
+  <circle cx="64" cy="16" r="4.5" fill="#FFFFFF" stroke="#1E1E24" stroke-width="2.5"/>
+  <circle cx="64" cy="66" r="4.5" fill="#FFFFFF" stroke="#1E1E24" stroke-width="2.5"/>
+  <circle cx="110" cy="41" r="4.5" fill="#FFFFFF" stroke="#1E1E24" stroke-width="2.5"/>
+  <circle cx="18" cy="41" r="4.5" fill="#FFFFFF" stroke="#1E1E24" stroke-width="2.5"/>
+</svg>

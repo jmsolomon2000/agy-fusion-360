@@ -1,0 +1,13 @@
+{
+  "name": "fusion-360",
+  "displayName": "Autodesk Fusion 360",
+  "version": "0.1.0",
+  "repository": "https://github.com/jmsolomon2000/agy-fusion-360",
+  "description": "Connects to your local Autodesk Fusion 360 desktop session via its built-in MCP server for real-time parametric CAD modeling, design inspection, and automation.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Inspect the active Fusion 360 design and list its components, bodies, and user parameters",
+    "Create a parametric mounting bracket in Fusion 360 with editable dimensions",
+    "Review the active Fusion 360 model for clearances, wall thickness, and fillet opportunities"
+  ]
+}
